@@ -65,7 +65,7 @@ The conversational capabilities of your copilot are limited by the *topics* it u
 
     ![Screenshot of the authoring canvas for the Fallback topic in Copilot Studio](./Images/fallback-topic.png)
 
-    The *Fallback* topic is triggered when the user enters a phrase for which the intent is unknown (there's no topic with a trigger that understands what the user is asking). This topic has a more comlex flow than the *Greeting* topic: It starts by checking a condition to see if the fallback count (the number of times the user has attempted to ask the question) is less than 3, and if so it reponds with the message *I'm sorry. I'm not sure how to help with that. Can you try rephrasing?* (which you may remember as the reponse when you asked how to use Copilot Studio). If the intent is still not understood on the third attempt, the topic redirects the conversation flow to the *Escalate* topic, which can be used to enable the user to speak to a human operator.
+    The *Fallback* topic is triggered when the user enters a phrase for which the intent is unknown (there's no topic with a trigger that understands what the user is asking). This topic has a more complex flow than the *Greeting* topic: It starts by checking a condition to see if the fallback count (the number of times the user has attempted to ask the question) is less than 3, and if so it reponds with the message *I'm sorry. I'm not sure how to help with that. Can you try rephrasing?* (which you may remember as the reponse when you asked how to use Copilot Studio). If the intent is still not understood on the third attempt, the topic redirects the conversation flow to the *Escalate* topic, which can be used to enable the user to speak to a human operator.
 
 1. Return to the **Topics** page. Then in the **+ Create** menu, select **Topic** > **Create from description with copilot**.
 1. In the **Create a description with copilot** dialog box, name the new topic `Ask About Copilot Studio` and enter the following text to tell copilot what the topic should do:
@@ -90,7 +90,7 @@ You can add topics for all of the inputs that you expect a user to enter; but yo
 
 To support this scenario, you can enable *Generative answers*; which uses a generative AI model to try to answer a user question based on a source of data, such as a web site.
 
-1. In the navigation pane on the left, select the **Overview** page. Once again, you can close the **Text copilot** pane to see the page more easily:
+1. In the navigation pane on the left, select the **Overview** page. Once again, you can close the **Test copilot** pane to see the page more easily:
 
 ![Screenshot of the Overview page in Copilot Studio](./Images/overview-page.png)
 
