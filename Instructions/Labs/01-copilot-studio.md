@@ -71,7 +71,7 @@ The conversational capabilities of your copilot are limited by the *topics* it u
 1. In the **Create a description with copilot** dialog box, name the new topic `Ask About Copilot Studio` and enter the following text to tell copilot what the topic should do:
 
     ```
-    Let the user ask how to use Copilot Studio, and tell them to visit https://learn.microsoft.com/en-us/microsoft-copilot-studio.
+    Let the user ask how to use Copilot Studio, and tell them to visit https://learn.microsoft.com/microsoft-copilot-studio.
     ```
 1. After a short wait, a new topic named *Ask About Copilot Studio* should be created and opened in the authoring canvas, where it should look similar to this:
 
@@ -82,7 +82,7 @@ The conversational capabilities of your copilot are limited by the *topics* it u
 1. Use the **Save** button (at the top right) to save the new topic in your copilot.
 1. Use the **Test copilot** button to re-open the **Test copilot** pane, and enter the text `How do I use Copilot Studio?`. Then view the response, which should be based on the topic you just added (even though the text you entered doesn't match any of the phrases in the trigger exactly - it should be close enough semantically to trigger the topic).
 
-    > **Note**: It's worth pausing for a second here to think about what you've just done. You've create a copilot in Copilot Studio, in which you used a copilot to automatically add a topic that enables a user to ask about Copilot Studio! Mind-blowing stuff!
+    > **Note**: It's worth pausing for a second here to think about what you've just done. You've created a copilot in Copilot Studio, in which you used a copilot to automatically add a topic that enables a user to ask about Copilot Studio! Mind-blowing stuff!
 
 ## Add *Generative AI* support
 
