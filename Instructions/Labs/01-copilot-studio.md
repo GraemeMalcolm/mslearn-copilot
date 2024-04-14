@@ -111,7 +111,7 @@ Now that you have a working copilot, you can publish it for people to use. The a
 
 1. In the navigation pane on the left, expand **Settings** and select **Security**.
 1. On the **Security** page, select **Authentication**. Then select the option for **No authentication** and save the changes to the configuration (confirming that you want to enable access to the copilot for anyone).
-1. Close the **Authentication** pane. Them, in the navigation pane on the left, select **Publish**.
+1. Close the **Authentication** pane. Then, in the navigation pane on the left, select **Publish**.
 1. On the **Publish** page, select **Publish**, and publish your copilot. Publishing will take a minute or so.
 1. After your copilot has been published, in the navigation pane on the left, in the **Settings** section, select **Channels**.
 1. Review the list of channels through which you can deliver your copilot, and then select **Demo website**. This is an appropriate channel for users to test your copilot.
