@@ -92,7 +92,7 @@ To support this scenario, you can enable *Generative answers*; which uses a gene
 
 1. In the navigation pane on the left, select the **Overview** page. Once again, you can close the **Test copilot** pane to see the page more easily:
 
-![Screenshot of the Overview page in Copilot Studio](./Images/overview-page.png)
+    ![Screenshot of the Overview page in Copilot Studio](./Images/overview-page.png)
 
 1. In the **Set up your generative AI** section, under **Add a website**, enter `https://www.microsoft.com/en-us/power-platform` and add it to the copilot. After a short time, the **Generative AI** page will be displayed with the URL you entered added to the websites for this copilot.
 1. Scroll to the bottom of the **Generative AI** page until you see a box in which you can enter **Instructions** to describe how the copilot should behave. These instructions are used in the prompt for a generative model to influence the responses that are returned. Enter the following instructions:
