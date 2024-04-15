@@ -63,7 +63,7 @@ To start your exploration of generative AI, let's use Microsoft Copilot in Edge 
 
     > **Important**: The AI-generated response is based on information publicly on the Web. While it may be useful to help you understand the steps required to set up a business, it is not guaranteed to be 100% accurate and does not replace the need for professional advice!
 
-## Use Copilot to create a business plan
+## Use Copilot to create content for a business plan
 
 Now that you've done some initial research, let's have Copilot help you develop a business plan for your cleaning company.
 
@@ -98,7 +98,7 @@ Now that you've done some initial research, let's have Copilot help you develop 
 
 1. Close the Microsoft Word tab and return to the **Documents** folder in your OneDrive.
 
-## Use Copilot to create a presentation
+## Use Copilot to create content for a presentation
 
 With Copilot's help, you've created a draft of a business plan for the cleaning business idea. Now you'll need an effective presentation to convince an investor to lend you the funding to start the business.
 
