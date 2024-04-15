@@ -21,4 +21,17 @@ This exercise requires a free Microsoft account (for example an *outlook.com*, *
 
 To start your exploration of generative AI, let's use Microsoft Copilot in Edge to examine an existing document and extract some insights from it.
 
-1. Download the same document [Business Idea.docx]()
+1. Download the document [Business Idea.docx](https://github.com/GraemeMalcolm/mslearn-copilot/raw/main/data/generative-ai/Business%20Idea.docx) from `https://github.com/GraemeMalcolm/mslearn-copilot/raw/main/data/generative-ai/Business%20Idea.docx` to your local computer, saving it as **Business Idea.docx** in your local **Downloads** folder.
+1. In Microsoft Edge, browse to [OneDrive](https://onedrive.live.com) at `https://onedrive.live.com` and sign in using your personal Microsoft account - closing any welcome messages or offers that are displayed.
+1. In OneDrive, open your **Documents** folder. Then use the **+ Add new** button to upload the **Business Idea.docx** file from your local computer to OneDrive.
+1. In OneDrive, open **Business Idea.docx** and view the text it contains, which describe some high -level ideas for a cleaning business in New York City.
+1. Use the **Copilot** icon on the Edge toolbar to open the Copilot pane, as shown here:
+
+    ![Screenshot of the Copilot pane in Microsoft Edge](./Images/edge-copilot.png)
+
+1. In the Copilot pane, ensure that the **Chat** tab is selected and that the conversational style is set to **More Balanced** - this will ensure that Copilot responds with a balance of creativity and factual precision..
+1. In the chat box at the bottom of the Copilot pane, enter the prompt `What is this document about?`. If prompted, confirm that you want to allow Copilot to access the page and acknowledge that the conversation will not be saved (note that Copilot protects the privacy of the conversation because it includes information from a personal document in your OneDrive).
+1. Review the response from Copilot, which should summarize the main points in the document.
+
+## Use Coplot to generate text
+
