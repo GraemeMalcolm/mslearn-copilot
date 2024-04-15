@@ -101,7 +101,7 @@ To support this scenario, you can enable *Generative answers*; which uses a gene
     Answer the user's question politely, finishing with the phrase "This response was generated using AI.".
     ```
 
-1. Sue the **Save** button (at the top left) to save the changes you have made. The copilot is configured to boost conversational capability with generative AI (which may take a few seconds).
+1. Use the **Save** button (at the top left) to save the changes you have made. The copilot is configured to boost conversational capability with generative AI (which may take a few seconds).
 1. Open the **Test copilot** pane and enter the question `What are components of Power Platform?`.
 1. View the response, which should be based on information from the website you entered (with references) and end with the phrase *This response was generated using AI.*.
 
