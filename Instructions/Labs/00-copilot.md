@@ -151,6 +151,18 @@ You've created some collateral to help you get your business started. Now it's t
 
     You can send the email to yourself if you wish!
 
+## Challenge
+
+Now you've seen how to use Copilot to research ideas and generate content, why not try exploring further? To start a new Copilot session, on the **Chat** tab, select the **New topic** icon next to the prompt box, and then try using Copilot to plan an event to promote children's literacy at a local library. Some things you could try include:
+
+- Research some tips for encouraging children to read at an early age.
+- Create a flyer or poster for the event.
+- Compose an email for a campaign to invite local children's authors to come and speak at the event.
+- Create a presentation to start the event.
+
+Be as inventive as you like, and explore how Copilot can help you by finding information, generating and refining text, creating images, and answering questions.
+
+
 ## Conclusion
 
 In this exercise, you've used Copilot in Microsoft Edge to find information and generate content. Hopefully you've seen how using generative AI in a copilot can help with productivity and creativity.
