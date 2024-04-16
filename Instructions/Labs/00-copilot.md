@@ -15,7 +15,7 @@ This exercise requires a free Microsoft account (for example an *outlook.com*, *
 1. If you don't already have a Microsoft account, sign up for one at [https://signup.live.com](https://signup.live.com).
 1. Sign into Microsoft Edge using your Microsoft account.
 
-> **Tip**: If you did not sign into Edge after creating your account, use the user account icon (&#128100;) on the Edge toolbar to sign in using a *personal* account.
+    > **Tip**: If you did not sign into Edge after creating your account, use the user account icon (&#128100;) on the Edge toolbar to sign in using a *personal* account.
 
 ## Use Copilot to explore a document and research an idea
 
