@@ -11,7 +11,7 @@ In this exercise you will explore some of the ways in which Microsoft Copilot ca
 
 This exercise requires a free Microsoft account (for example an *outlook.com*, *live.com*. or *hotmail.com* account), and the Microsoft Edge web browser.
 
-1. If you don;t already have Microsoft Edge installed, download and install it for free from [https://www.microsoft.com/edge/download](https://www.microsoft.com/edge/download).
+1. If you don't already have Microsoft Edge installed, download and install it for free from [https://www.microsoft.com/edge/download](https://www.microsoft.com/edge/download).
 1. If you don't already have a Microsoft account, sign up for one at [https://signup.live.com](https://signup.live.com).
 1. Sign into Microsoft Edge using your Microsoft account.
 
